@@ -1,2 +1,3 @@
-As enigmatic as dirt itself.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Confucius
+> The master knows when a recipe needs UB.
+> 
+> &mdash; <cite>Confucius</cite>
