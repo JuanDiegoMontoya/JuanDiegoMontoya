@@ -1,3 +1,1 @@
-> The master knows when a recipe needs UB.
-> 
-> &mdash; <cite>Confucius</cite>
+The UB-slinging slasher.
